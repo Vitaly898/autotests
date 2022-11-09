@@ -33,4 +33,4 @@ And : I click on Languages
 And : I click on Русский
 And : I click on Save button
 And : I click OK on modal window
-Then: I return on Google main page and the search button text is Поиск в Google 
+Then : I return on Google main page and the search button text is Поиск в Google 
